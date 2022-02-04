@@ -1,6 +1,6 @@
 # CNN-Mosquito-Detection
-_CNN Mosquito Habitat Detection Research
-_
+_CNN Mosquito Habitat Detection Research_
+
 **Title:** Autonomous Mosquito Habitat Detection using Satellite Imagery and Convolutional Nueral Networks for Disease Risk Mapping
 
 **Researchers:** Sriram Elango, Nandini Ramachandran
