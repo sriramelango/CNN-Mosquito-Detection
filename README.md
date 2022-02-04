@@ -9,4 +9,4 @@ CNN Mosquito Habitat Detection Research
 
 **Summary:** This research presents an evalutaion of multiple CNN models that aim to autonomously predict the presence of mosquito habitats by running inference on readily available satellite imagery. By determining the locations of potentially dangerous breeding grounds, we can aid in the prevention of the global transmission of mosquito borne vector diseases. 
 
-DOI: https://doi.org/10.1002/essoar.10508221.1
+**DOI:** https://doi.org/10.1002/essoar.10508221.1
